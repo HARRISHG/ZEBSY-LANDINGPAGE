@@ -1,0 +1,121 @@
+{
+    "Header": {
+
+        "title": "WELCOME",
+        "paragraph": "ZEBSY is a leading software development firm based in India. We push the frontiers of technology to build cutting-edge blockchain and IoT applications. Our custom-made solutions cater to the supply chain, logistics, agriculture, livestock, and entertainment industries."
+
+    },
+    "About": {
+        "paragraph":"We provide custom software development services to our clients when their business strategies and requirements are not adequately met. We work closely with the clients to understand their business objectives, define their software requirements, write specifications by involving our experienced business analyst and subject matter expert, design, architect, develop, test and integrate the custom software across multiple other systems and platforms including internet, cloud and desperate system enabling the system to function and optimally cooperate seamless for our clients.",
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Web Development",
+            "text": "Web development services help create all types of web-based software and ensure great experience for web users. At ScienceSoft, we professionally design, redesign and continuously support customer-facing and enterprise web apps to achieve high conversion and adoption rates."
+        },
+        {
+            "icon": "fa fa-cubes",
+            "name": "Blockchain",
+            "text": "Blockchain technology introduces a decentralized, distributed ledger system that is being fast adopted across industries. What's the big deal? It offers a safer, secure, and efficient alternative to manage and store data.If you want to bring more automation and transparency to your business operations with blockchain technology, we will give you a hand. "
+        },
+        {
+            "icon": "fa fa-sitemap",
+            "name": "IOT",
+            "text": "We provide a set of end-to-end services in which businesses contract with external providers to design, build, install and operate IoT solutions, including advisory consulting for IoT planning."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-group",
+            "title": "Business-Oriented Software.",
+            "text": "Business-Oriented Software Our team always focuses on your company's goals and profits."
+        },
+        {
+            "icon": "fa fa-check",
+            "title": "Quality Assurance Guarantee",
+            "text": "We will work hard to give the best quality to customer."
+        },
+        {
+            "icon": "fa fa-comments-o",
+            "title": "Excellent Price-Quality Ratio",
+            "text": "Despite the excellent quality, we provide competitive pricing."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Agile Responsible Development",
+            "text": "You will have full control over the process."
+        }
+    ]
+}
